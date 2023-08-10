@@ -1,4 +1,4 @@
-#Instagram Corpus
+# Instagram Corpus
 
 This repo creates a diachronic corpus of instagram posts surrounding the topic of body positivity. 
 The corpus was created for an analysis of how language use on the platform and within the domain has changed over 
